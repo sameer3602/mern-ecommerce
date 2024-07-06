@@ -1,6 +1,7 @@
 # MERN Ecommerce Application
 
 <code>Currently under construction for additional features</code>
+<code> Deployed Link:https://6689a8954250ed0f0d5871cd--effulgent-zabaione-1c1e6d.netlify.app/</code>
 
 # Description
 
